@@ -2,7 +2,7 @@
 
 ## 一、C语言的完整生命周期
 
-![](C:\Users\张润民\Desktop\C语言\images\C语言的生命周期.jpg)
+![](https://gitee.com/runminzhang/blog-pictures/raw/master/images/202112091402352.jpg)
 
 1. 预处理阶段
 
@@ -24,5 +24,5 @@
 
 ## 二、C语言的一些语法要点
 
-![](C:\Users\张润民\Desktop\C语言\images\C语言的语法要点.jpg)
+![](https://gitee.com/runminzhang/blog-pictures/raw/master/images/202112091403986.jpg)
 
